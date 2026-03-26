@@ -1,0 +1,5 @@
+# Install required packages
+pip install python-telegram-bot aiohttp requests beautifulsoup4 phonenumbers dnspython python-whois shodan pyOpenSSL
+
+# Run the bot
+python osint_bot.py
